@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Рабочий стол\Exam#1(month#3)\Exam#1\bin\Debug\net8.0\Exam#1.exe
+C:\Users\HP\OneDrive\Рабочий стол\Exam#1(month#3)\Exam#1\bin\Debug\net8.0\Exam#1.deps.json
+C:\Users\HP\OneDrive\Рабочий стол\Exam#1(month#3)\Exam#1\bin\Debug\net8.0\Exam#1.runtimeconfig.json
+C:\Users\HP\OneDrive\Рабочий стол\Exam#1(month#3)\Exam#1\bin\Debug\net8.0\Exam#1.dll
+C:\Users\HP\OneDrive\Рабочий стол\Exam#1(month#3)\Exam#1\bin\Debug\net8.0\Exam#1.pdb
+C:\Users\HP\OneDrive\Рабочий стол\Exam#1(month#3)\Exam#1\obj\Debug\net8.0\Exam#1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Рабочий стол\Exam#1(month#3)\Exam#1\obj\Debug\net8.0\Exam#1.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\Exam#1(month#3)\Exam#1\obj\Debug\net8.0\Exam#1.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Рабочий стол\Exam#1(month#3)\Exam#1\obj\Debug\net8.0\Exam#1.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\Exam#1(month#3)\Exam#1\obj\Debug\net8.0\Exam#1.dll
+C:\Users\HP\OneDrive\Рабочий стол\Exam#1(month#3)\Exam#1\obj\Debug\net8.0\refint\Exam#1.dll
+C:\Users\HP\OneDrive\Рабочий стол\Exam#1(month#3)\Exam#1\obj\Debug\net8.0\Exam#1.pdb
+C:\Users\HP\OneDrive\Рабочий стол\Exam#1(month#3)\Exam#1\obj\Debug\net8.0\Exam#1.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Рабочий стол\Exam#1(month#3)\Exam#1\obj\Debug\net8.0\ref\Exam#1.dll
